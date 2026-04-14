@@ -11,10 +11,10 @@ A Linux-based system programming tool that inspects and analyzes process-level i
 - Modular design with separation of interface and implementation
 
 ## Project Structure
-.
-├── main.c                          Entry point and user interaction  
-├── process.c                       Core implementation logic  
-├── ProcessMemoryInspector_header.h Function declarations  
+
+├── ProcessMemoryInspector_main.c                           Entry point and user interaction  
+├── ProcessMemoryInspector_process.c                        Core implementation logic  
+├── ProcessMemoryInspector_header.h                         Function declarations  
 
 ## Working Principle
 The program reads system-generated files from the Linux `/proc` filesystem:
