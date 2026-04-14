@@ -52,4 +52,3 @@ Enter a valid process ID when prompted (use `ps` to list active processes).
 
 ## Author
 Varad Muley  
-Computer Engineering (SPPU)
